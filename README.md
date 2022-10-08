@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [challenge-card-component](https://your-live-site-url.com)
+- Live Site URL: [challenge-card-component](https://luciano275.github.io/challenge-card-component/)
 
 ## My process
 
